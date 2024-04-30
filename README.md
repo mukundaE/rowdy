@@ -1,0 +1,2 @@
+# rowdy
+setting up git
